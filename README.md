@@ -59,7 +59,7 @@
 
 ---
 🚀 How to Run
-git clone https://github.com/yourusername/smart-attendance-system.git
+git clone https://github.com/shristi76/smart-attendance-system.git
 cd face-recognition-attendance
 
 then run add_faces.py  for capturing the face image
